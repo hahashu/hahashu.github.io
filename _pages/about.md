@@ -9,7 +9,7 @@ profile:
   image: q_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>shu.zhong.21@ucl.ac.uk</p>
+    
 
 
 news: true # includes a list of news items
