@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shu Zhong @ UCL # the website title (if blank, full name will be used instead)
+title: Shu Zhong # the website title (if blank, full name will be used instead)
 first_name: Shu
 middle_name: 
 last_name: Zhong
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shu Zhong @ UCL | PhD Student in Computer Science
+  Shu Zhong | PhD Student in UCL Computer Science
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: q_profile.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👩🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hahashu.github.io # the base hostname & protocol for your site
 # baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
