@@ -21,7 +21,7 @@ url: https://hahashu.github.io # the base hostname & protocol for your site
 # baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-
+back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -52,6 +52,9 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
+search_enabled: true
+socials_in_search: true
+bib_search: true
 
 # Dimensions
 max_width: 800px
@@ -112,7 +115,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Simply email me to get in touch.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -137,7 +140,7 @@ permalink:
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: false
