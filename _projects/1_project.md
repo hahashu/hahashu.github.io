@@ -1,10 +1,10 @@
 ---
 layout: page
-title: TextileNet
-description: A material taxonomy-based fashion textile dataset
+title: TextileNet 👀
+description: A material taxonomy-based fashion textile dataset and benchmark
 img: assets/img/textileflow.png
 importance: 1
-category: work
+category: PhD work
 redirect: https://github.com/hahashu/TextileNet
 related_publications: true
 ---
