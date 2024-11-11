@@ -3,20 +3,16 @@ layout: page
 title: MilliPoints 🤸‍♀️
 description: A point cloud dataset for mmWave radar human activity recognition
 img: assets/img/magnemite.png
-importance: 1
+importance: 5
 category: PhD work
 related_publications: true
 ---
 
 
-Millimetre-wave (mmWave) radar
-- cost-effective
-- non-intrusive
-- providing better protection for user privacy
+Millimetre-wave (mmWave) radar is cost-effective, non-intrusive and providing better protection for user privacy.
 
 
-### MilliPoints
-- Provide mmWave point cloud data and human skeleton models as ground truth. 
+MilliPoints provides mmWave point cloud data and human skeleton models as ground truth:
 - Covers three main tasks in human activity recognition.
 - 49 distinct actions, 4.08x more than the most action-diverse mmWave dataset.
 - 545K frames of data, 3.26x greater than the largest dataset in existence.

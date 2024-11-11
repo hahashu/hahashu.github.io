@@ -3,9 +3,9 @@ layout: page
 title: Sniff AI 💨👃
 description: Is My ‘Spicy’ Your ‘Spicy’? Perceptual alignment in olfactory
 img: assets/img/sniff.gif
-importance: 1
+importance: 4
 category: PhD work
-# related_publications: true
+related_publications: false
 ---
 
 Aligning AI with human intent is important, yet perceptual alignment—how AI interprets what we see, hear, or smell—remains underexplored. 

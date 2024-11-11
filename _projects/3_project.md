@@ -1,12 +1,13 @@
 ---
 layout: page
-title: AI 'touch' textiles 👋 🧣
+title: AI learns to touch 👋 🧣
 description: Exploring Human-AI Perception Alignment in touch Experiences
 img: assets/img/hai_tsne.png
-importance: 1
+importance: 3
 category: PhD work
 related_publications: true
 ---
+
 We introduces **perceptual alignment** as a critical aspect of human-AI interaction, focusing on bridging the gap in tactile perception alignment between humans and AI.
 
 Our research present the **first exploration** of this alignment through the "textile hand" task across two studies, examining how well LLMs align with human **touch experiences**  {% cite zhong2024feeling %} and {% cite zhong2024exploring %}.

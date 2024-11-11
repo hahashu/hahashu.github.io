@@ -3,10 +3,11 @@ layout: page
 title: TextileBot 🗣️
 description: LLM-Mediated Domain-Specific Voice Agents
 img: assets/img/botopen.png
-importance: 1
+importance: 2
 category: PhD work
 related_publications: true
 ---
+
 TextileBot is a domain specific voice bot focus on sustainability topic - textile circularity🧶 on smart device (Raspeberry Pi with 3D printed Case!). It was born at Febrery 2023.
 
 <div class="row">
