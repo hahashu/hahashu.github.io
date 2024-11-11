@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Milipoint* at NeurIPS 2023
+_Milipoint_ at NeurIPS 2023

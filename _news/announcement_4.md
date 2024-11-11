@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*MindTouch* at CHI 2023
+_MindTouch_ at CHI 2023

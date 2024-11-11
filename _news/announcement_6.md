@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*DeepWear* @ Women in Machine Learning workshop at NeurIPS 2022
+_DeepWear_ @ Women in Machine Learning workshop at NeurIPS 2022

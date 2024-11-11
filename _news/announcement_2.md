@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Feeling Textiles through AI: An exploration into Multimodal Language Models and Human Perception Alignment* will apear at ICMI 2024
+_Feeling Textiles through AI: An exploration into Multimodal Language Models and Human Perception Alignment_ will apear at ICMI 2024

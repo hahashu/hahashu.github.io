@@ -8,7 +8,7 @@ category: PhD work
 related_publications: false
 ---
 
-Aligning AI with human intent is important, yet perceptual alignment—how AI interprets what we see, hear, or smell—remains underexplored. 
+Aligning AI with human intent is important, yet perceptual alignment—how AI interprets what we see, hear, or smell—remains underexplored.
 
 This work focuses on olfaction, human smell experiences 💨👃
 
@@ -20,7 +20,6 @@ This work focuses on olfaction, human smell experiences 💨👃
 <div class="caption">
     SniffAI: an overview of user study and examples from the user study.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,6 +42,6 @@ This work focuses on olfaction, human smell experiences 💨👃
     An overview of the "AI sniff" method and the "Guess what scent" user study workflow.
 </div>
 
-
 <!-- For more information about SniffAI, check our [video](https://youtu.be/V_CQUcNlCAY).  -->
+
 The paper is coming soon.

@@ -25,7 +25,6 @@ TextileBot is a domain specific voice bot focus on sustainability topic - textil
 
 - We developed 2 variation of TextileBot: Assistant & Expert
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/taxprompt0.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -34,7 +33,6 @@ TextileBot is a domain specific voice bot focus on sustainability topic - textil
 <div class="caption">
     Taxonomy-Based Knowledge Structure Chain. 
 </div>
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
@@ -48,9 +46,6 @@ TextileBot is a domain specific voice bot focus on sustainability topic - textil
 <div class="caption">
     TextileBot - The physical agent interface is composed of a 3D printed box (6), a speaker (5), a microphone (4), and a button (3), all integrated into the Google AIY board (2) mounted on the Raspberry Pi 3 Model B (1) presented in (a). Right: A participant interacting with the TextileBot used across all three voice-based agents (b).
 </div>
-
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Design Digital Multisensory Textile Experiences* will be presented at ICMI 2024
+_Design Digital Multisensory Textile Experiences_ will be presented at ICMI 2024
