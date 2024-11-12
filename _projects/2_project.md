@@ -8,7 +8,7 @@ category: PhD work
 related_publications: true
 ---
 
-TextileBot is a domain-specific voice agent focused on the sustainability topic of textile circularity🧶. IIt is built into a smart device, a Raspberry Pi encased in 3D-printed housing, and was introduced in February 2023. 
+TextileBot is a domain-specific voice agent focused on the sustainability topic of textile circularity🧶. IIt is built into a smart device, a Raspberry Pi encased in 3D-printed housing, and was introduced in February 2023.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -55,6 +55,5 @@ TextileBot is a domain-specific voice agent focused on the sustainability topic 
 <div class="caption">
     From task-agnostic to domain-specific: on the topic of lunch (Vanilla GPT-3.5 model, TextileBot Expert, TextileBot Assistant)
 </div>
-
 
 For more information about TextileBot {% cite zhong2024llm %}, check our [paper](https://arxiv.org/abs/2406.10590) and [video](https://youtu.be/D9ZSwkqytsg)
