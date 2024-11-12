@@ -42,6 +42,8 @@ This work focuses on olfaction, human smell experiences 💨👃
     An overview of the "AI sniff" method and the "Guess what scent" user study workflow.
 </div>
 
-<!-- For more information about SniffAI, check our [video](https://youtu.be/V_CQUcNlCAY).  -->
+For more information about SniffAI, check our [paper](https://arxiv.org/abs/2411.06950).
 
-The paper is coming soon.
+<!--[video](https://youtu.be/V_CQUcNlCAY) and.  -->
+
+<!-- The paper is coming soon. -->
