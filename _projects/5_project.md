@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MilliPoints 🤸‍♀️
+title: MiliPoints 🤸‍♀️
 description: A point cloud dataset for mmWave radar human activity recognition
 img: assets/img/magnemite.png
 importance: 5
@@ -10,7 +10,7 @@ related_publications: true
 
 Millimetre-wave (mmWave) radar is cost-effective, non-intrusive and providing better protection for user privacy.
 
-MilliPoints provides mmWave point cloud data and human skeleton models as ground truth:
+MiliPoints provides mmWave point cloud data and human skeleton models as ground truth:
 
 - Covers three main tasks in human activity recognition.
 - 49 distinct actions, 4.08x more than the most action-diverse mmWave dataset.
