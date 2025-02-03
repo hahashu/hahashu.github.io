@@ -56,4 +56,4 @@ TextileBot is a domain-specific voice agent focused on the sustainability topic 
     From task-agnostic to domain-specific: on the topic of lunch (Vanilla GPT-3.5 model, TextileBot Expert, TextileBot Assistant)
 </div>
 
-For more information about TextileBot {% cite zhong2024llm %}, check our [paper](https://arxiv.org/abs/2406.10590) and [video](https://youtu.be/D9ZSwkqytsg)
+For more information about TextileBot {% cite zhong2025llm %}, check our [paper](https://doi.org/10.1080/0144929X.2025.2456667).
