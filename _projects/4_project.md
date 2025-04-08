@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sniff AI 💨👃
+title: Sniff AI 👃🌶️
 description: Is My ‘Spicy’ Your ‘Spicy’? Perceptual alignment in olfactory
 img: assets/img/sniff.gif
 importance: 4

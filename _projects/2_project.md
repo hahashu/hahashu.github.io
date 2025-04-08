@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TextileBot 🗣️
+title: TextileBot 🗣️♻️
 description: LLM-Mediated Domain-Specific Voice Agents
 img: assets/img/botopen.png
 importance: 2
