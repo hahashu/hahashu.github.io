@@ -8,7 +8,7 @@ middle_name:
 last_name: Zhong
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shu Zhong | PhD Student in UCL Computer Science
+  Shu Zhong | Data Scientist at Microsoft UK | PhD from UCL Computer Science
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
